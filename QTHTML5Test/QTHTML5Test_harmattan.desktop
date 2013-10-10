@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=QTHTML5Test
+Exec=/usr/bin/single-instance /opt/QTHTML5Test/bin/QTHTML5Test
+Icon=/usr/share/icons/hicolor/80x80/apps/QTHTML5Test80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
